@@ -1,12 +1,13 @@
-                                                       INVENTORY MANAGEMENT SYSTEM FOR RETAILERS
+                                                    INVENTORY MANAGEMENT SYSTEM FOR RETAILERS
 
-                                                              Team ID : PNT2022TMID26435
+                                                           Team ID : PNT2022TMID26435
                                                               
 
 Team Size : 4
 
 Team Leader : SHRIRAM C S
- shriram.cs.2019.cse@ritchennai.edu.in
+
+shriram.cs.2019.cse@ritchennai.edu.in
 
 Team Member : SARRAN KUMAR N K
 
