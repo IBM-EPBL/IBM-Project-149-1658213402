@@ -12,7 +12,7 @@
 
 
 # PROJECT
-### [PROJECT REPORT](https://github.com/IBM-EPBL/IBM-Project-149-1658213402/blob/main/Final%20Deliveries/Project%20Report/PROJECT%20REPORT%20-%20PNT2022TMID26435.pdf)
+### [PROJECT REPORT](https://github.com/IBM-EPBL/IBM-Project-149-1658213402/tree/main/Final%20Deliveries/Project%20Report)
 ### [PROJECT DEMO](https://drive.google.com/file/d/1foGyVeU6Payn-rYmRZLwZQ8JPfpZDPlQ/view?usp=drivesdk)
 
 # Project Deliverables
